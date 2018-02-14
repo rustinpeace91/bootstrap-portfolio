@@ -120,6 +120,7 @@ ul li {
 }
 
 .label-background {
+    left:0;
     position:absolute;
     bottom:10px;
     text-align:center;
