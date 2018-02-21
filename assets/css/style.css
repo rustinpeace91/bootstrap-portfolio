@@ -150,9 +150,7 @@ ul li {
 
 .footer {
 
-    height:80px;
-    position:fixed;
-    bottom:0;
+    position:absolute;
     width:100%;
     background:#666666;
     border-top:5px solid #4aaaa5;
@@ -165,16 +163,7 @@ ul li {
     color:#ffffff;
 }
 
-@media screen and (max-width:640px) {
-    .footer {
-        height:30px;
-    }
 
-    .footer-text{
-        line-height:30px;
-    }
-
-}
 
 
 
